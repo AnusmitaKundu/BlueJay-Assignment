@@ -1,0 +1,23 @@
+Employees who worked for 7 consecutive days:
+    Employee Name Position ID
+650  XiWW, JAsMiW   WFS000462
+
+Employees who worked less than 10 hours between shifts but more than 1 hour:
+                 Employee Name Position ID
+1463  AGeX, WaMhaW REGerM PeWa   WFS000588
+1086       AXcEcer, ECar JesAs   WFS000541
+605             AXvarez, Edgar   WFS000457
+1408  ArCeWMa FXEres, JEWaMhaW   WFS000584
+249       ArEsMigAi, AXexaWder   WFS000306
+...                        ...         ...
+1443    XariEs, Cesar GiEvaWWi   WFS000587
+159                 Xee, XaCar   WFS000200
+636               XiWW, JAsMiW   WFS000462
+784             ZaCEra, CigAeX   WFS000499
+716             ZaCEra, Edward   WFS000477
+
+[96 rows x 2 columns]
+
+Employees who worked more than 14 hours in a single shift:
+                        Employee Name Position ID
+1036  DeXgadiXXE REdarMe, ChrisMiaW S   WFS000523
